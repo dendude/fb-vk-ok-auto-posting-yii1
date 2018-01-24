@@ -7,7 +7,10 @@
 
 2. Файлы данного репозитория помещаем в `project_path/protected/commands`
 
----
+#### Зависимости
+
+* [php-graph-sdk](https://github.com/facebook/php-graph-sdk)
+* [simple_html_dom](https://packagist.org/packages/shark/simple_html_dom)
 
 #### Настройка crontab на сервере `crontab -e`
 
